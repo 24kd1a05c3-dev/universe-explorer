@@ -1,0 +1,4 @@
+HYG Database 4.1 — David Nash / Astronexus. Derived from Hipparcos, Yale Bright Star and Gliese catalogues.
+This filtered dataset is distributed under CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Source: https://github.com/astronexus/HYG-Database
+Modifications: filtered by magnitude/distance/name; selected columns encoded as JSON arrays.
