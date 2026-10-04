@@ -1,0 +1,9 @@
+portfolio/
+artifacts/
+.git/
+node_modules/
+dist/
+scripts/
+*.blend
+*.log
+.env*
